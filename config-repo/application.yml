@@ -1,5 +1,4 @@
 from: git-pro-1.0
 spring:
   datasource.
-    username:
-      zhihao.miao1
+    username: zhihao.miao1
